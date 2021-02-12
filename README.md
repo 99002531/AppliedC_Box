@@ -2,12 +2,12 @@
 
 ## Requirements
 * Weighted coloured box 
-	unique id,length,breadth,height,color,weight.
+**	unique id,length,breadth,height,color,weight.
 
-	create structure to define box.
-	create array of boxes using dynamic memory.
+**	create structure to define box.
+**	create array of boxes using dynamic memory.
 
-It contains following functions
+* It contains following functions
 	Add box at end of the array.
 
 	Display the state of all boxes
@@ -25,6 +25,6 @@ It contains following functions
 	Update the weight of the box with specfic id.
 
 	Remove the box with given id.
-*  
+  
 
 
